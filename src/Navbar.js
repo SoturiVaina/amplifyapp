@@ -5,13 +5,13 @@ function Navbar() {
 			<div class="collapse navbar-collapse" id="navbarText">
 				<ul class="navbar-nav me-auto">
 					<li class="nav-item active">
-						<a class="nav-link" href="#">Home</a>
+						<a class="nav-link" href="/">Home</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link disabled" href="#">About</a>
+						<a class="nav-link" href="/card">Card</a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link disabled" href="#">Contact</a>
+						<a class="nav-link" href="/contact">Contact</a>
 					</li>
 				</ul>
 				<form class="d-flex" role="search">
